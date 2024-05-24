@@ -1,2 +1,2 @@
-# Getao-de-farmacia
+# Gestao-de-farmacia
 Sistema de gestao de farmacia
